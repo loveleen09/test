@@ -1,4 +1,12 @@
-<?PDF_get_pdi_parameter(
+<?php
 
-	, key, doc, page, reserved)
-aSAsASDDSS
+
+function print2 (){
+
+echo 'loveleen';
+echo '</br>';
+echo 'kaur';
+}
+//test
+print2() ;
+?>
