@@ -2,12 +2,13 @@
 <body>
 
 <?php 
-$x = 1;
+$x = 6;
 
 do {
-    echo "The number is: $x <br>";
+    echo "The number is = $x <br>";
     $x++;
-} while ($x <= 5);
+} 
+while ($x <= 20);
 ?>
 
 </body>
